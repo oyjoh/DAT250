@@ -1,7 +1,7 @@
 # DAT250: Software Technology Experiment Assignment 4
 
 * Installation
-    * No problems
+    * No problem
     
 * Code
     * Based on jpa-example from lecture
